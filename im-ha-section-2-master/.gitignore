@@ -1,0 +1,7 @@
+**/node_modules
+**/report.json
+**/report.jest.json
+**/.eslintrc.json
+**/.prettierrc.json
+.vscode
+*package-lock.json
